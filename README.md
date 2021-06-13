@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on solvinng any pain-point of human health.
 - 📫 How to reach me: Evan.Y.W.Yu@gmail.com ; evan.yu@maastrichtuniversity.nl
 
-do what wxcites!
+do what excites!
 
 <!---
 TeamEYu/TeamEYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
